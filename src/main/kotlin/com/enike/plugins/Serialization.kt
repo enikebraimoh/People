@@ -18,3 +18,13 @@ fun Application.configureSerialization() {
             }
     }
 }
+
+//import io.ktor.server.application.*
+//import io.ktor.server.auth.*
+////...
+//install(Authentication) {
+//    oauth {
+//        // Configure oauth authentication
+//    }
+//}
+
